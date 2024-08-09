@@ -47,7 +47,7 @@ Follow these steps to set up and run the project locally:
     ```bash
     python manage.py runserver
 
-8.Visit the application
+
 Open your web browser and go to http://127.0.0.1:8000/ to see the application in action.
 
 Usage
