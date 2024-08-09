@@ -43,7 +43,7 @@ Follow these steps to set up and run the project locally:
 6. **Run database migrations**
     ```bash
    python manage.py migrate
-7.**Start the development server**
+7. **Start the development server**
     ```bash
     python manage.py runserver
 
